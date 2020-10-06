@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbsField" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAIAAAAQAAAAAAAAAAAAAGAAAAAAAAAAA=</HashCode>
+      <FileName>AbsField.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbsValidator" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>AbsValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassNames" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ClassNames.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CurrencyNames" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CurrencyNames.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestinationNames" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DestinationNames.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestinationToClassValidator&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DestinationToClassValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestinationToCurrencyValidator&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DestinationToCurrencyValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Field&lt;T&gt;" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAOAAAAAAAIgAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Form" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABBACAAAAAAAAAAgAAAAAMAAAAAAEAAAA=</HashCode>
+      <FileName>Form.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormValidator" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdValidator" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IdValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoDigitValidator" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgACAAAAAAAA=</HashCode>
+      <FileName>NoDigitValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RangeValidator&lt;T&gt;" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RangeValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Validator&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAEAAA=</HashCode>
+      <FileName>Validator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValuesToNames&lt;T&gt;" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ValuesToNames.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

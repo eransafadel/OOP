@@ -1,0 +1,5 @@
+help
+area 0
+cre c 5
+area 0
+per 0
